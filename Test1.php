@@ -1,3 +1,3 @@
 <?php
-echo "I get printed!";
+echo "I get prted!";
 ?>
